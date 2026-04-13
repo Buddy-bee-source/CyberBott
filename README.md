@@ -10,7 +10,7 @@ A C# console chatbot that educates users about cybersecurity threats and best pr
 -  Input validation for empty/unknown input
 -  Typing animation effect
 
-#Topics You Can Ask About
+# Topics You Can Ask About
 - Passwords
 - Phishing
 - Malware / Viruses
@@ -22,12 +22,11 @@ A C# console chatbot that educates users about cybersecurity threats and best pr
 - Safe Browsing
 - Software Updates
 
-#Project Structure
+# Project Structure
 Program.cs       
  Chatbot.cs       
  User.cs          
- AudioPlayer.cs   
-greeting.wav  
+ AudioPlayer.cs     
 README.md
 └── .github/workflows/dotnet.yml  # CI pipeline
-```
+Also a YouTube video link is added for the presentation
